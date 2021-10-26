@@ -46,6 +46,7 @@ public class Recursion {
 //        System.out.println(fibonacci(10));
 //        System.out.println(sumOfDigits(1534));
 //        System.out.println(power(2,4));
+        String num = new String();
         System.out.println(gcd(48,18));
     }
 }
