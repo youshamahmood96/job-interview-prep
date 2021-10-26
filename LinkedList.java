@@ -57,10 +57,32 @@ public class LinkedList {
        }
        this.size++;
     }
+    public Node pop() {
+        Node pop = new Node();
+        if (this.head == null) {
+            return null;
+        } else if (this.head.next == null) {
+            pop = this.head;
+            this.head = null;
+            this.tail = null;
+        } else {
+            Node current = this.head;
+            while(current.next!= null){
+                if(current.next.next == null){
+                    pop = current.next;
+                    current.next = null;
+                    this.tail = current;
+                }
+            }
+        }
+        return pop;
+    }
     public static void main(String[] args) {
         LinkedList ls = new LinkedList();
         ls.create(5);
         ls.insert(6,1);
-        System.out.println(ls.head.next.val);
+        Node test  = ls.pop();
+        System.out.println(test.val);
+        System.out.println(ls.head.val);
     }
 }
