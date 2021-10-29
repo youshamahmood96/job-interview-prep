@@ -1,4 +1,4 @@
-## Will be dropping random Links here
+## Absolutely everything about dsa that I find useful for myself
 
 60 leetcode questions:
 - [excel link](https://docs.google.com/spreadsheets/d/1Y98QKaYPazWImEt1nA_ocpGNJ-yQjH1FAsVQhUQ7OTw/edit#gid=0)
