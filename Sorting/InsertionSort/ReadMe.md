@@ -1,14 +1,14 @@
 ## Introduction
 
-Similar to bubble sort, but instead of first placing largest values at the end, we will place smallest values at the start.
+Builds up the sorted array by gradually creating a larger left halfd which is already sorted.
 
 ## Alogrithm
-- Store the index of first element in a variable minIndex.
-- Take one pointer i which will start from the beginning of the array and loop through the whole length. 
-- Take another pointer j which will start from the next element of the current location of the first pointer.Loop thorugh the end of the array. If any element is smaller than the first element, keep replacing the value of minIndex with that index. This way, we find the index of the minimum number.
-- If value of i doesnt match with minIndex, swap their elemnts.
-- Keep on looping
-- return the sorted array
+- Inititate a loop with a pointer i at the index 1 of array.
+- Store the value of arr[i] at a new variable, currVal
+- Initiate another loop where a pointer j is maintained. Which will start from the previous index of i and continue looping.
+- Keep on pushing the elements to their next indices untill it reaches the index 0 of the array. Or, arr[j]>currVal whichever comes first.
+- Repeat
+- Return the sorted array.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif"
      alt="Markdown Monster icon"
