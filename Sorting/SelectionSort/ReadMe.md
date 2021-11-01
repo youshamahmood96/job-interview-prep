@@ -10,24 +10,29 @@ Similar to bubble sort, but instead of first placing largest values at the end, 
 - Keep on looping
 - return the sorted array
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif"
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Selection-Sort-Animation.gif"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
  
- <img src="https://www.w3resource.com/w3r_images/insertion-sort.png"
+<img src="https://www.w3resource.com/w3r_images/selection-short.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
 ```java
 
-    static int[] insertionSort(int[] arr){
-    for(int i=1;i<arr.length;i++){
-      int currVal = arr[i];
-      for(int j=i-1;j>=0 && arr[j]>currVal;j--){
-         arr[j+1] = arr[j];
-         arr[j] = currVal;
+   static int[] selectionSort(int[] arr){
+    int minIndex = 0;
+    for(int i=0;i<arr.length;i++){
+      minIndex = i;
+      for(int j=i+1;j<arr.length;j++){
+        if(arr[j]<arr[minIndex]){
+          minIndex = j;
+        }
       }
-    }
+      if(minIndex!=i){
+        int temp = arr[i];
+        arr[i] = arr[minIndex];
+        arr[minIndex] = temp;
     return arr;
   }
 ```
@@ -41,4 +46,4 @@ Similar to bubble sort, but instead of first placing largest values at the end, 
 - Constant for both cases
 
 ## Special Note
-Insertion sort can handle dynamic arrays. If we have data in live/streaming, insertion sort is the only option among bubble/selection/insertion.
+Both bubble and selection sort is bad, but in some cases, selection sort is better to use than using bubble sort. For example if you want to reduce the number of **swap** operation, selection sort is better.
