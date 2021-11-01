@@ -8,6 +8,14 @@ A sorting algorithm where the largest values bubble up to the top!
 - If arr[j+1]>arr[j], swap
 - return the sorted array
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+     
+<img src="https://www.w3resource.com/w3r_images/bubble-short.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 ```java
 
 static int[] bubbleSort (int[] arr){
