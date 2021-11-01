@@ -1,3 +1,7 @@
+## Introduction
+
+A sorting algorithm where the largest values bubble up to the top!
+
 ## Alogrithm
 - Start looping the end of the array, with a pointer named j. This will have one decrement per loop. It will stop looping once it reaches the beginning of the array.
 - Start an inner loop with another pointer named jk, it will have one increment per loop. It will stop looping once it reaches the poiter j.
