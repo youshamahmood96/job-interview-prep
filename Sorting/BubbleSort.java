@@ -33,3 +33,6 @@ static int[] bubbleSort (int[] arr){
     }
     return arr;
   }
+// BigO
+// worst case --> 0(n^2) (If the data is not sorted at all)
+// best case --> 0(n) (If the data is nearly sorted/already sorted, using the second code, which is optimized)
