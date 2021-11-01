@@ -44,3 +44,6 @@ We dont need to keep on looping if one chunk of the array is already sorted. So 
 ## Time Complexity
 - Worst Case: O(n^2), where the array is not sorted at all
 - Best Case: O(n), where the array is partiall/completely sorted. 
+
+## Space Complexity
+- Constant for both cases, as only two additional variable needs to be stored in memory, temp and swapped
