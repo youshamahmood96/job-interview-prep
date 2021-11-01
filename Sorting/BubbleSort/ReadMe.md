@@ -4,7 +4,7 @@
 - If arr[j+1]>arr[j], swap
 - return the sorted array
 
-```
+```java
 
 static int[] bubbleSort (int[] arr){
   for(int i=arr.length-1;i>=0;i--){
@@ -23,7 +23,7 @@ static int[] bubbleSort (int[] arr){
 ## Optimization
 We dont need to keep on looping if one chunk of the array is already sorted. So we can set a flag to keep track of that. 
 
-```
+```java
  static int[] bubbleSort (int[] arr){
     boolean swapped = false;
     for(int i=arr.length-1;i>=0;i--){
@@ -47,3 +47,4 @@ We dont need to keep on looping if one chunk of the array is already sorted. So 
 
 ## Space Complexity
 - Constant for both cases, as only two additional variable needs to be stored in memory, temp and swapped
+
