@@ -9,6 +9,15 @@ Similar to bubble sort, but instead of first placing largest values at the end, 
 - If value of i doesnt match with minIndex, swap their elemnts.
 - Keep on looping
 - return the sorted array
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Selection-Sort-Animation.gif"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+ 
+ <img src="https://www.w3resource.com/w3r_images/selection-short.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 ```java
 
   static int[] selectionSort(int[] arr){
