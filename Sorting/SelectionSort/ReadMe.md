@@ -39,8 +39,8 @@ Similar to bubble sort, but instead of first placing largest values at the end, 
 
 
 ## Time Complexity
-- Worst Case: O(n^2), where the array is not sorted at all
-- Best Case: O(n), where the array is partiall/completely sorted. 
+- Worst Case: O(n^2)
+- Best Case: O(n^2), no change. As we are traversing the whole array either way
 
 ## Space Complexity
 - Constant for both cases
