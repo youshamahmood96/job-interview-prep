@@ -19,4 +19,24 @@ Tree is different from other data structures, as they are **non-linear**. Other 
 # Rules for forming a proper tree
 
 - A node can only point to a chld. It cannot point to parent/siblings.
-- A tree has only one **root** 
+- A tree has only one **root**
+
+# Examples of trees
+
+- HTML DOM
+- Network Routing
+- Abstract syntax trees
+- Artifical intelligence
+- Folders in OS
+
+# Kinds of trees
+
+- **Trees**
+- **Binary Trees**
+- **Binary Search Trees**
+
+# Rules for forming binary search trees
+
+- A parent can only have two children
+- the leftnode is always lesser than the parent
+- the rightnode is always greater than the parent
