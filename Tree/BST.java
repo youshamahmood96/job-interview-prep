@@ -53,4 +53,20 @@ public class BST {
         }
         return null;
     }
+    public List<Integer> bfs(){
+        ArrayList<Integer> visited = new ArrayList<>();
+        Queue<Node> queue = new ArrayDeque<>();
+        queue.add(this.root);
+        while(!queue.isEmpty()){
+            Node current = queue.remove();
+            if(current.left != null){
+                queue.add(current.left);
+            }
+            if(current.right!= null){
+                queue.add(current.right);
+            }
+            visited.add(current.value);
+        }
+        return visited;
+    }
 }
