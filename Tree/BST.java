@@ -69,4 +69,14 @@ public class BST {
         }
         return visited;
     }
+    void dfsPreorder(Node node) {
+        if (node == null)
+            return;
+        System.out.print(node.value + " ");
+        dfsPreorder(node.left);
+        dfsPreorder(node.right);
+    }
+    void dfsPreorder() { 
+        dfsPreorder(root); 
+    }
 }
