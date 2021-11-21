@@ -5,7 +5,10 @@ const gridTravellerMemo = (m,n,memo={}) => {
     if(m===0 || n===0) return 0;
     return memo[key] =  gridTravellerMemo(m-1,n,memo)+gridTravellerMemo(m,n-1,memo);
 }
+let startMemo = performance.now();
 console.log(gridTravellerMemo(18,18));
+let endMemo = performance.now();
+console.log(`Memoization took ${endMemo-startMemo} milliseconds`);
 const gridTravellerTab = (m,n) => {
     let key = `${m-1},${n-1}`
     let tab = {}
@@ -18,4 +21,7 @@ const gridTravellerTab = (m,n) => {
     }
     return tab[key] 
 }
+let startMemoTab = performance.now();
 console.log(gridTravellerTab(18,18));
+let endMemoTab= performance.now();
+console.log(`Tabulization took ${endMemoTab-startMemoTab} milliseconds`);
