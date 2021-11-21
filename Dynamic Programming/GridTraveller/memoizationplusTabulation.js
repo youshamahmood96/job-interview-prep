@@ -1,3 +1,4 @@
+const { performance } = require('perf_hooks');
 const gridTravellerMemo = (m,n,memo={}) => {
     let key = `${m},${n}`
     if(memo[key]) return memo[key]
