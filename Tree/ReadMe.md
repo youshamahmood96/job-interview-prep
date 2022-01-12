@@ -1,5 +1,5 @@
 # What is a tree?
-A data structure which consists of nodes, and they are in a parent child realtionship
+A data structure which consists of nodes, and they are in a parent child relationship
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tree_%28computer_science%29.svg/220px-Tree_%28computer_science%29.svg.png" />
 
