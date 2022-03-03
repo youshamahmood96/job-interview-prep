@@ -6,3 +6,8 @@
 
 ### BigO
 <a href="https://www.bigocheatsheet.com/"> Big O Cheatsheet </a>
+
+### Leetcode Patterns
+
+<a href="https://seanprashad.com/leetcode-patterns/">171 leetcode questions with patterns </a> <br/>
+<a href="https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed"> 14 patterns for any coding interview </a>
