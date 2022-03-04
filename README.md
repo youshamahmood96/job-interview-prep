@@ -1,6 +1,6 @@
 ### Absolutely everything about dsa that I find useful for myself
 
-Okay so I started this repo storing my solutions to problems in different platforms, but now I am dumping anything related to securing a tech job here. I am messy lol
+Okay so I started this repo to store my solutions to problems in different platforms, but now I am dumping anything related to securing a tech job here. I am messy lol
 
 ### 60 leetcode questions:
 - <a href="https://docs.google.com/spreadsheets/d/1Y98QKaYPazWImEt1nA_ocpGNJ-yQjH1FAsVQhUQ7OTw/edit#gid=0" target="_blank">Excel Link </a>
