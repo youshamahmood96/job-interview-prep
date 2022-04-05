@@ -3,8 +3,9 @@
 Okay so I started this repo to store my solutions to problems in different platforms, but now I am dumping anything related to securing a tech job here. I am messy lol
 
 ### 60 leetcode questions:
-- <a href="https://docs.google.com/spreadsheets/d/1Y98QKaYPazWImEt1nA_ocpGNJ-yQjH1FAsVQhUQ7OTw/edit#gid=0" target="_blank">Excel Link </a>
-- <a href="https://medium.com/@koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e" target="_blank">Blog Link </a>
+<a href="https://docs.google.com/spreadsheets/d/1Y98QKaYPazWImEt1nA_ocpGNJ-yQjH1FAsVQhUQ7OTw/edit#gid=0" target="_blank">Excel Link </a>
+<br/>
+<a href="https://medium.com/@koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e" target="_blank">Blog Link </a>
 
 ### BigO
 <a href="https://www.bigocheatsheet.com/"> Big O Cheatsheet </a>
@@ -32,3 +33,6 @@ Okay so I started this repo to store my solutions to problems in different platf
 
 <a href="https://igotanoffer.com/blogs/tech/facebook-front-end-engineer-interview?fbclid=IwAR0Fy6CEPP-b95CujHwgExDoVZEVFFHkR9ewwLYQshMnXEYJZo3FSAMLmxc"> Meta Frontend Engineer Interview Experience </a>
 
+### Javascript Interview Questions
+
+<a href="https://learnersbucket.com/examples/interview/implement-clearalltimeout-in-javascript/">Implement clearAllTimeOut </a>
