@@ -29,7 +29,9 @@ Okay so I started this repo to store my solutions to problems in different platf
 <br/>
 <a href="https://neetcode.io/">Neetcode</a>
 <br/>
-<a href="https://bigfrontend.dev/">Front-end practise</a>
+<a href="https://bigfrontend.dev/">bigfrontenddev</a>
+<br/>
+<a href="https://javascript.info/">javascriptinfo</a>
 
 ### Interview Expriences
 
