@@ -28,6 +28,8 @@ Okay so I started this repo to store my solutions to problems in different platf
 <a href="https://www.techinterviewhandbook.org/introduction/">Advised by an engineer from meta </a>
 <br/>
 <a href="https://neetcode.io/">Neetcode</a>
+<br/>
+<a href="https://bigfrontend.dev/">Front-end practise</a>
 
 ### Interview Expriences
 
