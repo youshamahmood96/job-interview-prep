@@ -41,4 +41,7 @@ Okay so I started this repo to store my solutions to problems in different platf
 <br/>
 <a href="https://drive.google.com/drive/folders/1h4fJRe85Q8QQk0ROFJP_SwOUaYn723QR">Google Drive-1</a>
 
+### Useful NodeJs Links
+<a href="https://drive.google.com/file/d/1wDmmID08vmq3y9SREuGqe2qOpcJ7__NV/view?usp=sharing"> NodeJs notes for professionals </a>
+
 
