@@ -44,4 +44,8 @@ Okay so I started this repo to store my solutions to problems in different platf
 ### Useful NodeJs Links
 <a target="_blank" href="https://drive.google.com/file/d/1wDmmID08vmq3y9SREuGqe2qOpcJ7__NV/view?usp=sharing"> NodeJs notes for professionals </a>
 
+### Useful Java Links
+
+<a target="_blank" href="https://drive.google.com/file/d/1_gRCMyVSRznJT6GH92sJYwUgxF51F7ZR/view?usp=sharing"> 240 core java interview questions </a>
+
 
