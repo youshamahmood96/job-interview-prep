@@ -29,6 +29,8 @@ Okay so I started this repo to store my solutions to problems in different platf
 <br/>
 <a target="_blank" href="https://bigfrontend.dev/">bigfrontenddev</a>
 <br/>
+<a href="https://frontendeval.com/">Frontend Eval</a>
+<br/>
 <a target="_blank" href="https://javascript.info/">javascriptinfo</a>
 
 ### Interview Expriences
