@@ -44,6 +44,8 @@ Okay so I started this repo to store my solutions to problems in different platf
 <a target="_blank" href="https://learnersbucket.com/examples/interview/implement-clearalltimeout-in-javascript/">Implement clearAllTimeOut </a>
 <br/>
 <a target="_blank" href="https://drive.google.com/drive/folders/1h4fJRe85Q8QQk0ROFJP_SwOUaYn723QR">Google Drive-1</a>
+<br/>
+  <a href="https://learnersbucket.com/javascript-sde-cheat-sheet/">Js SDE Cheatsheet</a>
 
 ### Useful NodeJs Links
 <a target="_blank" href="https://drive.google.com/file/d/1wDmmID08vmq3y9SREuGqe2qOpcJ7__NV/view?usp=sharing"> NodeJs notes for professionals </a>
