@@ -34,7 +34,7 @@ Okay so I started this repo to store my solutions to problems in different platf
 <a target="_blank" href="https://javascript.info/">javascriptinfo</a>
 <br/>
 <a href="https://www.frontendinterviewhandbook.com/">Front end interview handbook<a/>
-
+  
 ### Interview Expriences
 
 <a target="_blank" href="https://igotanoffer.com/blogs/tech/facebook-front-end-engineer-interview"> Meta Frontend Engineer Interview Experience </a>
@@ -54,4 +54,5 @@ Okay so I started this repo to store my solutions to problems in different platf
 
 <a target="_blank" href="https://drive.google.com/file/d/1_gRCMyVSRznJT6GH92sJYwUgxF51F7ZR/view?usp=sharing"> 240 core java interview questions </a>
 
-
+### System Design (Will move this to a separate repo when I gather enough resources)
+  <a href="https://hemdan.hashnode.dev/series/fe-system-design">Frontend System Design </a>
