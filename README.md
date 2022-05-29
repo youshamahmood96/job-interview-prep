@@ -40,7 +40,8 @@ Okay so I started this repo to store my solutions to problems in different platf
 <a target="_blank" href="https://igotanoffer.com/blogs/tech/facebook-front-end-engineer-interview"> Meta Frontend Engineer Interview Experience </a>
 
 ### Javascript Interview Questions & Resources
-
+<a target="_blank" href="https://drive.google.com/file/d/1nPq3QZsFVu6TdtGCHKxoO-24HR-AxWyj/view?usp=sharing">JS cheatsheet</a>
+<br/>
 <a target="_blank" href="https://learnersbucket.com/examples/interview/implement-clearalltimeout-in-javascript/">Implement clearAllTimeOut </a>
 <br/>
 <a target="_blank" href="https://drive.google.com/drive/folders/1h4fJRe85Q8QQk0ROFJP_SwOUaYn723QR">Google Drive-1</a>
