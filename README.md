@@ -14,6 +14,8 @@ Okay so I started this repo to store my solutions to problems in different platf
 <a target="_blank" href="https://docs.google.com/spreadsheets/d/1Y98QKaYPazWImEt1nA_ocpGNJ-yQjH1FAsVQhUQ7OTw/edit#gid=0" target="_blank">60 leetcode questions</a>
 <br/>
 <a target="_blank" href="https://www.reddit.com/r/leetcode/comments/v2ft8b/is_there_a_top50_list_for_microsoft_apple_google/">Amazon top 50,Facebook top 50, Linkedin top 33</a>
+<br/>
+<a target="_blank" href="https://www.linkedin.com/posts/srikanth-tekumudi-95b47216b_facebook-tagged-leetcode-set-activity-6941241494703857664-INmU?utm_source=linkedin_share&utm_medium=member_desktop_web">Facebook tagged interview questions</a>
 
 ### Possible mock interview site options
 
