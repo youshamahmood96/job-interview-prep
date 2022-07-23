@@ -64,4 +64,8 @@ Okay so I started this repo to store my solutions to problems in different platf
 
 ### System Design (Will move this to a separate repo when I gather enough resources)
   <a href="https://hemdan.hashnode.dev/series/fe-system-design">Frontend System Design </a>
+  
+### All OA
+
+<a href="https://www.reddit.com/r/leetcode/comments/qz2atz/amazon_final_interview_questions_all_combined/">Amazon OA</a>
  
