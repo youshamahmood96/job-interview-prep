@@ -5,6 +5,9 @@ A data structure which consists of nodes, and they are in a parent child relatio
 
 Tree is different from other data structures, as they are **non-linear**. Other data strcutures, like arrays, lists, stack, queues etc have one dimensional data formation.
 
+*linear data structures are those who only have one level and can be traversed in one single pass* <br>
+*non-linear data structures are multi-levelled and cannot be traversed in one single pass*
+
 # Terminologies
 
 - **Root**: The topmost node in a tree.Also known as **Key**
